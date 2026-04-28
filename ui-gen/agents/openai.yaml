@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Gen"
+  short_description: "Generate annotated UI images"
+  default_prompt: "Use $ui-gen to generate a composite UI annotation image for this screen."
